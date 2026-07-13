@@ -1,3 +1,14 @@
 **/__Previews/
 *.SchDocPreview
 *.PcbDocPreview
+__Previews/
+**/__Previews/
+*.SchDocPreview
+*.PcbDocPreview
+History/
+*.LOG
+*.log
+__Previews/
+**/__Previews/**
+*.SchDocPreview
+*.PcbDocPreview
